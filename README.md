@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0CF709&vCenter=true&width=1000&height=60&lines=Hello++%F0%9F%91%8B+I+am+Peter+Kamau)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=f2530a&vCenter=true&width=1000&height=60&lines=Hello++%F0%9F%91%8B+I+am+Peter+Kamau)](https://git.io/typing-svg)
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmdrhmn&label=Total%20profile%20visits&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmdrhmn)
 
